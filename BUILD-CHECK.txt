@@ -1,0 +1,7 @@
+app_build_gradle: PASS
+manifest: PASS
+web_source: PASS
+twa_dependency: PASS
+target_sdk_36: PASS
+launch_url: PASS
+assetlinks_template: PASS

@@ -1,0 +1,10 @@
+MOBILE-ONLY NEXT STEP
+
+1. Upload PayNest-Android-BUILD-v1.zip to the GitHub repository root.
+2. Create .github/workflows/build-android.yml.
+3. Copy the contents of github-workflow-build-android.yml into that workflow file.
+4. Commit it.
+5. Open Actions -> Build PayNest Android -> Run workflow.
+6. When it finishes successfully, download the PayNest-debug-apk artifact.
+
+Do not manually create app/src/main folders. They are already part of this project.
